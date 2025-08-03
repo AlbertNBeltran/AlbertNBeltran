@@ -29,11 +29,16 @@
 <h2>CTF Capture the flag writeups</h2> 
 
 <h2> Certifications </h2>
-<b>CISSP</b>					
-- CEH
-- Security +
-- Linux Essentials
-- CCNA
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/7831360d-2f5c-4704-b4ba-2b78712a4e6f" /> <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/8b127499-6f79-49e2-8c6d-4902ff51fdf6" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b1c6786f-4259-4ee3-9e2f-415694f2c312" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/11bad946-cd39-4b27-b357-6e2af4dd7140" /> 
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b90d47e6-40a9-4a78-92f9-442e7cb9bedf" />
+
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/bc6d5a3d-9f01-401b-97fd-f6dd61fedf6e" />
+
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/2fe6c760-ff12-4d50-ac87-e87afd028a30" />
+
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/8bca1e85-3eae-4586-93c4-825540f15adf" />
 
 <h2> 🤳 Connect with me:</h2>
 
