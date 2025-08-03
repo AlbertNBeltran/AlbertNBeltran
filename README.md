@@ -26,10 +26,10 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>CTF Capture the flag writeups</h2>
+<h2>CTF Capture the flag writeups</h2> 
 
 <h2> Certifications </h2>
-- <b>CISSP</b>
+<b>CISSP</b>					
 - CEH
 - Security +
 - Linux Essentials
