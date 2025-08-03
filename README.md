@@ -30,7 +30,7 @@
 
 <h2> Certifications </h2>
 - <b>CISSP</b>
-- CEH</b>
+- CEH
 - Security +
 - Linux Essentials
 - CCNA
