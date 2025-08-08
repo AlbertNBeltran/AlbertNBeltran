@@ -1,8 +1,9 @@
 <h1>Hi, I'm Albert! <br/><a href="https://www.linkedin.com/in/albert-nevarez-beltran/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
-- <b>Secuirty Operations Architecture and Design</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Security Operation Automation (Architecture and Design)</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
