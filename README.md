@@ -3,7 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Security Operation Automation (Architecture and Design)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Automate Security Operations using Tenable | Splunk | ServiceNow](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
