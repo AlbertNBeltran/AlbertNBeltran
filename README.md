@@ -4,7 +4,7 @@
 
 - <b>Security Operation Automation (Architecture and Design)</b>
   - [Automate Security Operations using Tenable | Splunk | ServiceNow](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md)
-- <b>Frameworks</b>
+- <b>Governance Risk and Compliance Frameworks</b>
   - **NIST Cybersecurity Framework (CSF):** 
   - **ISO 27001:** 
   - **CIS Controls:** 
