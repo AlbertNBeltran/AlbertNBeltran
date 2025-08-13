@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Security Operation Automation (Architecture and Design)</b>
-  - [Automate Security Operations using Tenable | Splunk | ServiceNow](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md)
+- <b>Security Operation (Architecture and Design)</b>
+  - [How to Automate Security Operations using Tenable | Splunk | ServiceNow](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md)
 - <b>Governance Risk and Compliance Frameworks</b>
   - **NIST Cybersecurity Framework (CSF):** 
   - **ISO 27001:** 
@@ -58,6 +58,7 @@
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
