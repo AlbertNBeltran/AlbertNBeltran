@@ -7,9 +7,9 @@
 <picture>
   <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
 </picture>
-<h3 align="left">Automating Vulnerability Security Operations</h3>
+
+```This project explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tools and intergrations using design and architectural principles.```
 <ul align="left">
-   <br />
       <li>Deepening my knowledge in Machine Learning and AI.</li>
       <li>Exploring advanced React.js patterns and state management techniques.</li>
       <li>Improving my skills in cloud computing with AWS and Azure.</li>
@@ -17,8 +17,7 @@
 </ul>
 <br />
 <br />
-<br />
-<br />
+
 <!--Project#2--> 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 <picture>
