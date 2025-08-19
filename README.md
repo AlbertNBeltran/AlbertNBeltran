@@ -25,7 +25,7 @@
         <ins>Goal:</ins> Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities.
       <br/>
         <br/>
-          <ins>Technology:</ins>
+          <ins>Tech:</ins>
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
@@ -47,7 +47,7 @@
         <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
       <br/>
         <br/>
-          <ins>Technology:</ins>
+          <ins>Tech:</ins>
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
@@ -70,7 +70,7 @@
         <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
       <br/>
         <br/>
-          <ins>Technology:</ins>
+          <ins>Tech:</ins>
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
