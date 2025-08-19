@@ -22,7 +22,7 @@
         <br/>
       <br/>
     [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
-<br />
+
 
 <!--Project#2--> 
 
