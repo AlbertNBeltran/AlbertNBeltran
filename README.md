@@ -30,17 +30,26 @@
 <br/>
 <!--Project#2--> 
 
-<h2>👨‍💻 CyberSecurity Projects:</h2>
-<picture>
-
-</picture>
-<h3 align="left">Automating Vulnerabiility Security Operations</h3>
-<ul align="left">
-   <br />
-      <li>Deepening my knowledge in Machine Learning and AI.</li>
-      <li>Exploring advanced React.js patterns and state management techniques.</li>
-      <li>Improving my skills in cloud computing with AWS and Azure.</li>
-</ul>
+<h2>Multi-Cloud Security Posture Management</h2>
+  <picture>
+      <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/ff46a5f0-2d8b-4318-a60d-8575be64bd21" />
+  </picture>
+  
+```Explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tool integrations using architectural and design principles.```
+  <br/>
+    <br/>
+        <ins>Goal:</ins> Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities.
+      <br/>
+        <br/>
+          <ins>Tools:</ins>
+            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
+            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
+            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
+        <br/>
+    [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
+   <br/>
+<br/>
 
 - <b>Governance Risk and Compliance Frameworks</b>
   - **NIST Cybersecurity Framework (CSF):** 
