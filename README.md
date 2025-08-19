@@ -1,11 +1,16 @@
 <!--Hello Banner-->       
-<h1>Hi, I'm Albert! <br/><a href="https://www.linkedin.com/in/albert-nevarez-beltran/">Cybersecurity Professional</a><br/> 👨‍💻 CyberSecurity Projects:</h1>
+<h1>Hi, I'm Albert! 
+  <br/><a href="https://www.linkedin.com/in/albert-nevarez-beltran/">
+      Cybersecurity Professional</a>
+     <br/>
+        <br/> 
+            👨‍💻 CyberSecurity Projects:</h1>
 
 <!--Atomation VM Project -->       
 
 <h2>Automation of Vulnerability Security Operations</h2>
   <picture>
-    <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
+    <img width="600" height="350" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
   </picture>
 
 ```Explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tool integrations using architectural and design principles.```
