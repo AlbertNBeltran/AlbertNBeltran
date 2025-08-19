@@ -4,20 +4,27 @@
 <!--Atomation VM Project -->       
 
 <h2>Automation of Vulnerability Security Operations</h2>
-<picture>
-  <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
-</picture>
+  <picture>
+    <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
+  </picture>
 
 ```Explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tool integrations using architectural and design principles.```
-<ul align="left">
-      <li>Goals: Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities. </li>
-      <br />
-      <li>Tools: Tenable.io Scanner (Nessus), SIEM (Splunk), ITSM (ServiceNow Yokohama), Rest API.</li>
-      <br />
-      <li><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">Click here to view</a></li>
-</ul>
+  <br/>
+    <br/>
+        <ins>Goal:</ins> Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities.
+      <br/>
+        <br/>
+          <ins>Tools:</ins>
+            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
+            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
+            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+        <br/>
+      <br/>
+    [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
 <br />
+
 <!--Project#2--> 
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 <picture>
 
@@ -56,7 +63,11 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
+<!--Capture the flag tracking--> 
+
 <h2>CTF Capture the flag writeups</h2> 
+
+<!--Certifications--> 
 
 <h2> Certifications </h2>
 <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/7831360d-2f5c-4704-b4ba-2b78712a4e6f" /> 
