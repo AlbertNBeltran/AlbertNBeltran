@@ -10,9 +10,8 @@
 
 ```This project explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tools and intergrations using design and architectural principles.```
 <ul align="left">
-      <li>Deepening my knowledge in Machine Learning and AI.</li>
-      <li>Exploring advanced React.js patterns and state management techniques.</li>
-      <li>Improving my skills in cloud computing with AWS and Azure.</li>
+      <li>Goals: The goal is to create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities. </li>
+      <li>Tools: Tenable.io Scanner (Nessus), SIEM (Splunk), ITSM (ServiceNow Yokohama), Rest API.</li>
       <li><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">Click Here</a></li>
 </ul>
 <br />
