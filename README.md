@@ -3,20 +3,20 @@
 
 <!--Atomation VM Project -->       
 
-<h2>Automating Vulnerability Security Operations</h2>
+<h2>Automation of Vulnerability Security Operations</h2>
 <picture>
   <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
 </picture>
 
-```This project explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tools and intergrations using design and architectural principles.```
+```Explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tool integrations using architectural and design principles.```
 <ul align="left">
-      <li>Goals: The goal is to create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities. </li>
+      <li>Goals: Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities. </li>
+      <br />
       <li>Tools: Tenable.io Scanner (Nessus), SIEM (Splunk), ITSM (ServiceNow Yokohama), Rest API.</li>
-      <li><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">Click Here</a></li>
+      <br />
+      <li><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">Click here to view</a></li>
 </ul>
 <br />
-<br />
-
 <!--Project#2--> 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 <picture>
