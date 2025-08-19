@@ -44,7 +44,7 @@
 ```Demonstrated hands-on expertise in multi-cloud security posture management (CSPM) by leveraging Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and GCP, showcasing practical skills in cloud governance.```
   <br/>
     <br/>
-        <ins>Goal:</ins> This project aims to provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
+        <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
       <br/>
         <br/>
           <ins>Tools:</ins>
