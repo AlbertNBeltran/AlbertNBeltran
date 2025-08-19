@@ -18,6 +18,7 @@
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
         <br/>
       <br/>
     [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
