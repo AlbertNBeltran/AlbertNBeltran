@@ -41,7 +41,7 @@
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/ff46a5f0-2d8b-4318-a60d-8575be64bd21" />
   </picture>
   
-```Demonstrated hands-on expertise in multi-cloud security posture management (CSPM) by leveraging Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and GCP, showcasing practical skills in cloud governance.```
+```Demonstrated multi-cloud security expertise by using Tenable Cloud Security to remediate intentional misconfigurations across AWS, Azure, and GCP.```
   <br/>
     <br/>
         <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
