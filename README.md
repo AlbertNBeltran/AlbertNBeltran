@@ -26,8 +26,8 @@
             ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
         <br/>
     [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
- <br/>
-
+   <br/>
+<br/>
 <!--Project#2--> 
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
