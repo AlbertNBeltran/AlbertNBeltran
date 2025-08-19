@@ -10,7 +10,7 @@
 
 <h2>Automation of Vulnerability Security Operations</h2>
   <picture>
-    <img width="600" height="350" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
+    <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
   </picture>
 
 ```Explains how to automate Vulnerability Management with security operations and change management workflows by implementing security tool integrations using architectural and design principles.```
