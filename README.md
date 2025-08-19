@@ -1,9 +1,39 @@
+<!--Hello Banner-->       
 <h1>Hi, I'm Albert! <br/><a href="https://www.linkedin.com/in/albert-nevarez-beltran/">Cybersecurity Professional</a></h1>
 
+<!--Atomation VM Project -->       
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Security Operation (Architecture and Design)</b>
-  - [How to Automate Security Operations using Tenable | Splunk | ServiceNow](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md)
+<h2>Automating Vulnerability Security Operations</h2>
+<picture>
+  <img width="500" height="300" alt="Image" align="left" src="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/Gemini_Generated_Image_mfys5rmfys5rmfys.png" /> 
+</picture>
+<h3 align="left">Automating Vulnerabiility Security Operations</h3>
+<ul align="left">
+   <br />
+      <li>Deepening my knowledge in Machine Learning and AI.</li>
+      <li>Exploring advanced React.js patterns and state management techniques.</li>
+      <li>Improving my skills in cloud computing with AWS and Azure.</li>
+      <li><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">Click Here</a></li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+<!--Project#2--> 
+<h2>👨‍💻 CyberSecurity Projects:</h2>
+<picture>
+
+</picture>
+<h3 align="left">Automating Vulnerabiility Security Operations</h3>
+<ul align="left">
+   <br />
+      <li>Deepening my knowledge in Machine Learning and AI.</li>
+      <li>Exploring advanced React.js patterns and state management techniques.</li>
+      <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+
 - <b>Governance Risk and Compliance Frameworks</b>
   - **NIST Cybersecurity Framework (CSF):** 
   - **ISO 27001:** 
