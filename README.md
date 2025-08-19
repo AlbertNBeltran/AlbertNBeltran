@@ -12,7 +12,7 @@
         <br/> 
             👨‍💻 CyberSecurity Projects:</h1>
 
-<!--Atomation VM Project -->       
+<!--Project#1 - Atomation VM Project -->       
 
 <h2>Automation of Vulnerability Security Operations</h2>
   <picture>
@@ -25,7 +25,7 @@
         <ins>Goal:</ins> Create an automated, closed-loop vulnerability management system that dramatically reduces the time it takes to identify, prioritize, and fix security vulnerabilities.
       <br/>
         <br/>
-          <ins>Tools:</ins>
+          <ins>Technology:</ins>
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
@@ -36,7 +36,7 @@
 <br/>
 <!--Project#2--> 
 
-<h2>Multi-Cloud Security Posture Management</h2>
+<h2>Multi-Cloud Security Posture Management (CSPM)</h2>
   <picture>
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/ff46a5f0-2d8b-4318-a60d-8575be64bd21" />
   </picture>
@@ -47,7 +47,30 @@
         <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
       <br/>
         <br/>
-          <ins>Tools:</ins>
+          <ins>Technology:</ins>
+            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
+            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
+            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
+        <br/>
+    [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
+   <br/>
+<br/>
+
+<!--Project#3--> 
+
+<h2>IAM Security Management </h2>
+  <picture>
+      <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/dec9f2b1-eb24-4fe9-b98a-bd118d70f92a" />
+  </picture>
+  
+```Demonstrated multi-cloud security expertise by using Tenable Cloud Security to remediate intentional misconfigurations across AWS, Azure, and GCP.```
+  <br/>
+    <br/>
+        <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
+      <br/>
+        <br/>
+          <ins>Technology:</ins>
             ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
             ![Static Badge](https://img.shields.io/badge/Splunk-orange)
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
