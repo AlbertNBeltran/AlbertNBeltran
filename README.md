@@ -32,9 +32,9 @@
             ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
         <br/>
    <br/>
-<p align="center">
- <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
-
+   <p align="center"><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">
+<img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" alt="W3Schools.com" width="250" height="50" border="10" />
+</a></p>
 <!--Project#2--> 
 
 <h2>Multi-Cloud Security Posture Management (CSPM)</h2>
