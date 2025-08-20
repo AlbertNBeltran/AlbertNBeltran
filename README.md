@@ -34,6 +34,11 @@
     [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
    <br/>
 <br/>
+<p align="center">
+ <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="200" height="50" border="10"/>
+
+</p>
+
 <!--Project#2--> 
 
 <h2>Multi-Cloud Security Posture Management (CSPM)</h2>
