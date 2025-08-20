@@ -31,13 +31,9 @@
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
             ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
         <br/>
-    [Click Here](https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md) :point_left:
    <br/>
-<br/>
 <p align="center">
- <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="200" height="50" border="10"/>
-
-</p>
+ <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
 
 <!--Project#2--> 
 
