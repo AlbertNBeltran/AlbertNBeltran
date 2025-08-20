@@ -1,3 +1,4 @@
+<!--Welcome banner-->  
 <div align="center">
  <a class="link" href="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/header.svg">
   <img class="image" src="header.svg" alt="Click to see the source">
@@ -31,9 +32,9 @@
             ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
             ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
         <br/>
-   <br/>
-   <p align="center"><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">
-<img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" alt="W3Schools.com" width="250" height="50" border="10" />
+     <br/>
+    <p align="center"><a href="https://github.com/AlbertNBeltran/Security-Operation-Architecture-and-Design-/blob/main/README.md">
+ <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" alt="W3Schools.com" width="250" height="50" border="10" />
 </a></p>
 <!--Project#2--> 
 
@@ -61,7 +62,7 @@
 
 <!--Project#3--> 
 
-<h2>IAM Security Management </h2>
+<h2>Identity and Access Management (IAM) and Zero Trust</h2>
   <picture>
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/dec9f2b1-eb24-4fe9-b98a-bd118d70f92a" />
   </picture>
@@ -82,6 +83,58 @@
    <br/>
 <p align="center">
  <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
+
+ <!--Project#4 Incident Reaponse-->  
+ <h2>Incident Response and & Forensics </h2>
+  <picture>
+      <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/9afdd3ae-a699-4b3b-a3f2-e7f024a84415" />
+  </picture>
+  
+```Demonstrated multi-cloud security expertise by using Tenable Cloud Security to remediate intentional misconfigurations across AWS, Azure, and GCP.```
+  <br/>
+    <br/>
+        <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
+      <br/>
+        <br/>
+          <ins>Tech:</ins>
+            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
+            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
+            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
+        <br/>
+      <br/>
+   <br/>
+<p align="center">
+ <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
+
+ <!--Project#5 Governance, Risk & Compliance (GRC) -->  
+ 
+  <h2>Governance, Risk & Compliance (GRC)</h2>
+  <picture>
+      <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/eb4a1041-df9c-4585-b2fa-23464375a0b4" />
+  </picture>
+  
+```Demonstrated multi-cloud security expertise by using Tenable Cloud Security to remediate intentional misconfigurations across AWS, Azure, and GCP.```
+  <br/>
+    <br/>
+        <ins>Goal:</ins> Provide practical, hands-on experience in multi-cloud security by guiding users to leverage Tenable Cloud Security to identify and remediate intentional misconfigurations across AWS, Azure, and Google Cloud.
+      <br/>
+        <br/>
+          <ins>Tech:</ins>
+            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
+            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
+            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
+            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
+        <br/>
+      <br/>
+   <br/>
+<p align="center">
+ <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
+
+ <!--Hello Banner-->  
+ <!--Hello Banner-->  
+
+
 
 - <b>Governance Risk and Compliance Frameworks</b>
   - **NIST Cybersecurity Framework (CSF):** 
