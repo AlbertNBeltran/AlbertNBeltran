@@ -62,7 +62,7 @@
 
 <!--Project#3--> 
 
-<h2>Identity and Access Management (IAM) and Zero Trust</h2>
+<h2>Identity and Access Management (IAM) with Zero Trust</h2>
   <picture>
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/dec9f2b1-eb24-4fe9-b98a-bd118d70f92a" />
   </picture>
@@ -85,7 +85,7 @@
  <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
 
  <!--Project#4 Incident Reaponse-->  
- <h2>Incident Response and & Forensics </h2>
+ <h2>Incident Response & Forensics </h2>
   <picture>
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/9afdd3ae-a699-4b3b-a3f2-e7f024a84415" />
   </picture>
