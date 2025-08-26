@@ -2,7 +2,7 @@
 <div align="center">
  <a class="link" href="https://github.com/AlbertNBeltran/AlbertNBeltran/blob/main/header.svg">
   <img class="image" src="header.svg" alt="Click to see the source">
- </a>
+ </a> 
 </div>
 
 <!--Hello Banner-->       
