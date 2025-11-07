@@ -11,7 +11,7 @@
       Cybersecurity Professional</a>
      <br/>
         <br/> 
-            👨‍💻 CyberSecurity Projects:</h1>
+            👨‍💻 Cybersecurity projects:</h1>
 
 <!--Project#1 - Atomation VM Project -->       
 
@@ -74,7 +74,6 @@
 <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/376aee0a-f42b-46fe-9a0f-546c13d84658" />
 <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/e0d5da3f-fc09-4697-8255-f2c706e1e337" />
 <img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/cac95a01-e4ed-4f07-8206-fd49284de7d9" />
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/b5abd9e6-c361-4f6c-96e9-e37ad3e9a36c" />
 
 
 
