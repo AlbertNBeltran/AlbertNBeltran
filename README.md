@@ -50,16 +50,17 @@
       <br/>
         <br/>
           <ins>Tech:</ins>
-            ![Static Badge](https://img.shields.io/badge/Tenable.io_Nessus-blue)
-            ![Static Badge](https://img.shields.io/badge/Splunk-orange)
-            ![Static Badge](https://img.shields.io/badge/ServiceNow-Green)
-            ![Static Badge](https://img.shields.io/badge/Restful%20API-grey)
+            ![Static Badge](https://img.shields.io/badge/Google%20Cloud%20Platform-blue)
+            ![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Service-orange)
+            ![Static Badge](https://img.shields.io/badge/Micrsosoft%20Azure-Green)
+            ![Static Badge](https://img.shields.io/badge/Tenable%20Cloud%20Security%20Posture%20Management%20(CSPM)-grey)
      <br/>
 <br/>
     <br/>
 <p align="center">
  <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
 
+<details>
 <!--Project#3--> 
 
 <h2>Identity and Access Management (IAM) with Zero Trust</h2>
@@ -85,6 +86,7 @@
  <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
 
  <!--Project#4 Incident Reaponse-->  
+ 
  <h2>Incident Response & Forensics </h2>
   <picture>
       <img width="450" height="250" align="left" alt="Multi-cloud misconfiguration project" src="https://github.com/user-attachments/assets/9afdd3ae-a699-4b3b-a3f2-e7f024a84415" />
@@ -131,6 +133,8 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Click_Here_to%20View-red?style=for-the-badge" width="250" height="50" border="10"/>
 
+
+<details/>
  <!--Hello Banner-->  
  <!--Hello Banner-->  
 
